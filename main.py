@@ -1,0 +1,1 @@
+print("Programming is like drinking your favorite drink spiked with poison and anti-dote at the same time")
